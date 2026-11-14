@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.DS_Store
+Training.csv
+Testing.csv
+model.joblib

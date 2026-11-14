@@ -1,0 +1,13 @@
+model,symptoms_kept,top1_mean,top1_std,top3_mean,top3_std
+Logistic Regression,1.0,1.0,0.0,1.0,0.0
+Logistic Regression,0.75,0.975,0.026,0.997,0.011
+Logistic Regression,0.5,0.816,0.046,0.925,0.033
+Logistic Regression,0.25,0.402,0.05,0.563,0.05
+Random Forest,1.0,1.0,0.0,1.0,0.0
+Random Forest,0.75,0.962,0.028,0.993,0.011
+Random Forest,0.5,0.8,0.048,0.921,0.035
+Random Forest,0.25,0.445,0.049,0.629,0.06
+SVM,1.0,1.0,0.0,1.0,0.0
+SVM,0.75,0.901,0.049,0.98,0.026
+SVM,0.5,0.603,0.045,0.756,0.042
+SVM,0.25,0.238,0.036,0.338,0.04
